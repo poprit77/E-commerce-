@@ -133,9 +133,10 @@ router.delete("/:id", async (req, res) => {
     if (!productData) {
       res.status(404).json({ message: "NO product found" });
       return;
-    }
+    }a
     res.status(200).json(productData);
   } catch (err) {
+
     res.status(500).json(err);
   }
 });
