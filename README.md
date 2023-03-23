@@ -7,13 +7,14 @@
   
   *The what, why, and how:* 
   
-  This project demonstartes how to use SQL while implmenting sequilize and ORM.
+This is the back end for an ecommerce site. USing a working express.js API configuered to use sequlize to interact with MySQL
   ## Table of Contents
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [Tests](#tests)
   * [License](#license)
   
+ [Link to walkthrough](https://drive.google.com/file/d/1ukTzUFXfEEHlXlYowhP0pyDe-QTNpHEp/view)
   ## Installation
   
   *Steps required to install project and how to get the development environment running:*
